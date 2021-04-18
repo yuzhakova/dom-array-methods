@@ -13,7 +13,7 @@ Project to practice high order array methods and DOM manipulation
 
 ## Final Product
 
-!["DOM Array Methods"](https://raw.githubusercontent.com/yuzhakova/TBD.png)
+!["DOM Array Methods"](https://raw.githubusercontent.com/yuzhakova/dom-array-methods/main/array-methods.png)
 
 
 - JavaScript
